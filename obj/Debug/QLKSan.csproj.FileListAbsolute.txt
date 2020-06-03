@@ -1,0 +1,10 @@
+D:\codeC#Aptech\QLKSan\bin\Debug\QLKSan.exe.config
+D:\codeC#Aptech\QLKSan\bin\Debug\QLKSan.exe
+D:\codeC#Aptech\QLKSan\bin\Debug\QLKSan.pdb
+D:\codeC#Aptech\QLKSan\obj\Debug\QLKSan.csprojAssemblyReference.cache
+D:\codeC#Aptech\QLKSan\obj\Debug\QLKSan.Properties.Resources.resources
+D:\codeC#Aptech\QLKSan\obj\Debug\QLKSan.csproj.GenerateResource.cache
+D:\codeC#Aptech\QLKSan\obj\Debug\QLKSan.csproj.CoreCompileInputs.cache
+D:\codeC#Aptech\QLKSan\obj\Debug\QLKSan.exe
+D:\codeC#Aptech\QLKSan\obj\Debug\QLKSan.pdb
+D:\codeC#Aptech\QLKSan\obj\Debug\QLKSan.Form1.resources
